@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**vonne-design/vonne-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning about Github
+- 🤔 I’m looking to see how fast I can pick up programming or build a simple app on Github
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+## ⚡ Fun fact: 
+> 💕 **keen learner** of all tech stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💕 experiments with **essential oils** & **castile soaps**
+
+> 💕 made **earrings** for fun
+
